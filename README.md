@@ -1,5 +1,5 @@
 - Hi, I’m @Bhatck
-- I’m interested in makings stuff
+- I’m interested in making stuff
 - I currently know c# and python but i'm only using c#
 
 <!---
